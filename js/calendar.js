@@ -58,10 +58,10 @@
                 '</li>' +
                 '<li><a class="toggler" href="#">All Block Chain</a>' +
                 '<ul class="sub-menu">' +
-                '<li><a href="#"><img src="images/project/previous-image.png" alt="icon">Binance</a></li>' +
-                '<li><a href="#"><img src="images/project/previous-image2.png" alt="icon">Ethereum (ETH)</a></li>' +
-                '<li><a href="#"><img src="images/project/previous-image3.png" alt="icon">Polygon</a></li>' +
-                '<li><a href="#"><img src="images/project/chain.png" alt="icon">All Block Chain</a></li>' +
+                '<li><a href="#"><img src="images/project/previous-image.png" alt="">Binance</a></li>' +
+                '<li><a href="#"><img src="images/project/previous-image2.png" alt="">Ethereum (ETH)</a></li>' +
+                '<li><a href="#"><img src="images/project/previous-image3.png" alt="">Polygon</a></li>' +
+                '<li><a href="#"><img src="images/project/chain.png" alt="">All Block Chain</a></li>' +
                 '</ul>' +
                 '</li>' +
                 '</ul>' +
