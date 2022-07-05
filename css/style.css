@@ -7747,8 +7747,9 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card_sect {
-    background: #090A1A;
+    /* background: #090A1A; */
     padding-bottom: 110px;
+    padding-top: 150px;
 }
 
 .staking_flip_card {
@@ -7890,6 +7891,17 @@ div.latest-item .hover-shape-bg {
     color: #33EFB0;
     margin-bottom: 0px;
     padding-top: 10px;
+}
+
+@media screen and (max-width:767px) {
+    .staking_flip_card_front_timebg {
+        position: static;
+        left: -40px;
+        top: 0px;
+    }
+    .staking_apy h3 {
+        text-align: left;
+    }
 }
 
 .staking_flip_card_front_list {
